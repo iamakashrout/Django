@@ -1,0 +1,77 @@
+# General
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+instance/
+db.sqlite3
+.DS_Store
+
+# Logs & Debugging
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
+*.coverage
+htmlcov/
+*.mo
+*.log
+*.out
+*.pid
+
+# Virtual Environment
+.env
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Byte-compiled / Cached
+*.class
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+*.pyc
+*.pyo
+*.pyd
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Database
+*.sqlite3
+*.db
+*.sqlite
+*.pdb
+*.pgdata
+*.pgsql
+
+# Django Files
+media/
+staticfiles/
+local_settings.py
+db.sqlite3
+__pycache__/
+migrations/*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PostgreSQL Data (If using a local database)
+pgdata/
+
+# Coverage Reports
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Deploy-related
+.envrc
+*.pem
+*.crt
+*.key
